@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SwiftUI Demo
 //
-//  Created by Maverick on 3/28/20.
+//  Created by Indrayani on 3/28/20.
 //  Copyright © 2020 Indrayani. All rights reserved.
 //
 
